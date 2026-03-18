@@ -1,0 +1,8 @@
+{
+  "name": "rwa-fractional-estate",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.20.1"
+  }
+}
